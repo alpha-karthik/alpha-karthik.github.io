@@ -7,10 +7,13 @@ This is a website to learn concepts in more understandable way.
 ### Inductors 
 
 As we know the word Inductor .It is a physical component in electrical devices.We can describe in other words as
+
 _An ingenious invention came from study of electricity and magnetism._
 
 We know The term and we can solve problems involving inductors , but did we really understand them?
+
 Did  you really know what is going on inside them?
+
 I can give you a tour without mathemathical terms or with a few to understand them and thir properities.
 
 ```markdown
