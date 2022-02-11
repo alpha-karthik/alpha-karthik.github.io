@@ -1,15 +1,20 @@
 # Welcome to I&I
 
-You can use the [editor on GitHub](https://github.com/alpha-karthik/alpha-karthik.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This is a website to learn concepts in more understandable way.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Inductors 
+
+As we know the word Inductor .It is a physical component in electrical devices.We can describe in other words as
+_An ingenious invention came from study of electricity and magnetism._
+
+We know The term and we can solve problems involving inductors , but did we really understand them?
+Did  you really know what is going on inside them?
+I can give you a tour without mathemathical terms or with a few to understand them and thir properities.
 
 ```markdown
-Syntax highlighted code block
+
 
 # Header 1
 ## Header 2
